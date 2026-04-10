@@ -10,6 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-orange)
 ![Docker](https://img.shields.io/badge/Docker-blue)
 
-<p style="color:#93c5fd;">Welcome to my GitHub ✨</p>
+<p style="color:#93c5fd;">selamat datang di Github aku ✨</p>
 
 </div>
