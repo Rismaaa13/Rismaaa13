@@ -2,8 +2,8 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 
-<h2 style="color:#e5e7eb;">Halo Aku Mutiara 👋</h2>
+<h2 style="color:#e5e7eb;">👋 Ngoding dulu, jagonya belakangan!</h2>
 
-<p style="color:#93c5fd;">Selamat datang di GitHub aku</p>
+<p style="color:#93c5fd;">Welcome to my GitHub ✨</p>
 
-</div>
+</div><p style="color:#64748b;">Programmer in progress 💻</p>
